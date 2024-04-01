@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Devlopment Projects.
 - 📫 How to reach me kherjayeshb5657@gmail.com
 - 😄 Pronouns: Jayesh Kher
-- ⚡ Fun fact: I am Very Shy Gu In Front Of Girls.
+- ⚡ Fun fact: I am Very Shy Guy In Front Of Girls.
 
 <!---
 JayeshKher/JayeshKher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
