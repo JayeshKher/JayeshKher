@@ -1,16 +1,39 @@
-<div class="tenor-gif-embed" data-postid="5599506735065577224" data-share-method="host" data-aspect-ratio="1.67114" data-width="100%"><a href="https://tenor.com/view/happy-cute-boy-gif-5599506735065577224">Happy Cute GIF</a>from <a href="https://tenor.com/search/happy-gifs">Happy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <h1>Jayesh Kher</h1>
+Aspiring Web Developer & Game Enthusiast 🚀
+
+Welcome to my GitHub profile! If you're passionate about web development, working with Node.js, Express, JavaScript frameworks, and MongoDB, while also loving to explore game development with Godot Engine, you've come to the right place!
+
+This README is a little insight into my journey as a developer, showcasing my skills, projects, and love for coding both web apps and games.
+
+My Skill Set 💻
+
+Web Development:
+
+    Node.js: Building robust server-side applications.
+    Express.js: Creating RESTful APIs and backends for web apps.
+    JavaScript Frameworks: Using front-end frameworks like React, Vue.js, or Angular for dynamic web applications.
+    MongoDB: Working with NoSQL databases to handle data effectively.
+
+Projects I've Built 🚧
+
+Web Development Projects:
+
+    E-Commerce Web App
+        Tech Stack: Node.js, Express, MongoDB, React
+        Features: User authentication, product management, shopping cart, payment integration.
+
+    Personal Blog Platform
+        Tech Stack: Node.js, Express, Handlebars, MongoDB
+        Features: User authentication, blog posts with comments, and responsive design.
+
+    Real-time Chat App
+        Tech Stack: Node.js, Express, WebSocket, MongoDB
+        Features: Real-time messaging, online status, chat rooms.
+        
+Get In Touch 📬
+
+Feel free to check out my projects, fork them, and contribute! I’m always excited to collaborate with like-minded people, so don’t hesitate to reach out if you want to work on something together or just chat about development!
+
+    LinkedIn: https://www.linkedin.com/in/jayesh-kher-745a33216/
 
 
-
-- 👋 Hi, I’m @JayeshKher
-- 👀 I’m interested in Unity Game Devlopment.
-- 🌱 I’m currently learning Game Design and Game Programming.
-- 💞️ I’m looking to collaborate on Game Devlopment Projects.
-- 📫 How to reach me kherjayeshb5657@gmail.com
-- 😄 Pronouns: Jayesh Kher
-- ⚡ Fun fact: I am Very Shy Guy In Front Of Girls.
-
-<!---
-JayeshKher/JayeshKher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build something amazing together! 💡
